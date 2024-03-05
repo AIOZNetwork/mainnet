@@ -1,0 +1,7 @@
+{
+	"binaries": {
+		"darwin/amd64": "https://archive.aioz.network/aiozd-v1.5.0-darwin-amd64?checksum=sha256:fe65e83bb8416d0140a141089da9ac757c008e971042a775b094b4bf0216541b",
+		"linux/amd64": "https://archive.aioz.network/aiozd-v1.5.0-linux-amd64?checksum=sha256:637b4d8d6946e3dc660f3314338e52415cb8c060b45eff77e5b393033c04430b",
+		"windows/amd64": "https://archive.aioz.network/aiozd-v1.5.0-windows-amd64.exe?checksum=sha256:a2b67f3f06991ccea53361484b7a63a71abdfe6c24f964ae1651e467cf43e8d3"
+	}
+}
