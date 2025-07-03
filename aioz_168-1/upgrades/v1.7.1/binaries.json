@@ -2,7 +2,7 @@
 	"binaries": {
 		"darwin/amd64": "https://archive.aioz.network/aiozd-v1.7.1-darwin-amd64?checksum=sha256:409c08bad1b9c14a2e85213cce652888249efb39e906efb87ca7221741860b50",
 		"darwin/arm64": "https://archive.aioz.network/aiozd-v1.7.1-darwin-arm64?checksum=sha256:ce38a0cebaf5bd00da977003bc049ea2c76fbb62c77a244553ce175f6da3f543",
-		"linux/amd64": "https://archive.aioz.network/aiozd-v1.7.1-linux-amd64?checksum=sha256:d30861910008fec93342a0fddb42159aae5f82282937f8c3a4b68fefff05380c",
+		"linux/amd64": "https://archive.aioz.network/aiozd-v1.7.1-linux-amd64?checksum=sha256:749e65d360f1113fa2b2602e31641676a408bdc3f32cb2ecdf8701fa6bcfb65f",
 		"windows/amd64": "https://archive.aioz.network/aiozd-v1.7.1-windows-amd64.exe?checksum=sha256:891ca8a817521375bb17847bf4056d468735985f881ab72693239f89aa60057a"
 	}
 }
