@@ -1,0 +1,6 @@
+{
+	"binaries": {
+		"darwin/arm64": "https://archive.aioz.network/aiozd-v1.8.6-darwin-arm64?checksum=sha256:2fd9814ecd0a199e3c87fe7a5859f545cf57dd4a9654469e5ad496d24f2dddd7",
+		"linux/amd64": "https://archive.aioz.network/aiozd-v1.8.6-linux-amd64?checksum=sha256:e6a5ecc1c52a696144248dfa78858267fd93cd18338334eea227d22d2747655f"
+	}
+}
